@@ -6,7 +6,7 @@ app = Client(
   "edit_deletion_bot", # Give your bot a name
   api_id=28213535,
   api_hash="1ef6a15e73037970c9aae03d1bd005e5",
-  bot_token="",
+  bot_token="7519527919:AAGGHKGrg1cOtdhvGUKElxyfV54vzu_nfCE",
 )
 
 # Delete all edited messages in any group
