@@ -36,5 +36,5 @@ Hey there!  I'm your friendly neighborhood Edit Deletion Bot,here to keep thing
 
 # Run the bot
 print("Bot is starting...")
-app.run
+app.run()
 print("Bot has started successfully and is now online!")
